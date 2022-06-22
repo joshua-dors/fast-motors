@@ -1,1 +1,1 @@
-A simple website portfolio made with Bootstrap.
+A full functioning (work in progress) dealership website.
